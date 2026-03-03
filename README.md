@@ -126,6 +126,7 @@ Relationships follow a one-to-many structure where dimension tables filter the f
 ---
 
 ## 10. Project Structure
+````
 Financial_Risk_Analysis_Project/
 │
 ├── data/
@@ -148,7 +149,7 @@ Financial_Risk_Analysis_Project/
 ├── requirements.txt
 ├── .gitignore
 └── LICENSE
-
+````
 
 ---
 
@@ -179,8 +180,25 @@ Financial_Risk_Analysis_Project/
 
 ---
 
+## 13. Dashboard Preview
+
+- Portfolio Overview & Risk Growth Analysis
+![image alt](https://github.com/TusharRajput018/Finance-Loan-Risk-Analytics-Credit-Risk-Portfolio-Analysis-Project/blob/7fcd0e1552f47671a1d881272598520db2eb9612/images/dashboard_view1.png)
+
+- Customer Risk Segmentation & Demographic Analysis
+![image alt](https://github.com/TusharRajput018/Finance-Loan-Risk-Analytics-Credit-Risk-Portfolio-Analysis-Project/blob/7fcd0e1552f47671a1d881272598520db2eb9612/images/dashboard_view2.png)
+
+- Risk Exposure & Credit Score Impact Analysis
+![image alt](https://github.com/TusharRajput018/Finance-Loan-Risk-Analytics-Credit-Risk-Portfolio-Analysis-Project/blob/7fcd0e1552f47671a1d881272598520db2eb9612/images/dashboard_view3.png)
+
+- Income Band & Loan Type Performance Insights
+![image alt](https://github.com/TusharRajput018/Finance-Loan-Risk-Analytics-Credit-Risk-Portfolio-Analysis-Project/blob/7fcd0e1552f47671a1d881272598520db2eb9612/images/dashboard_view4.png)
+
+---
+
 ## 14. Conclusion
 
 This project demonstrates how structured financial data analysis can transform raw loan records into meaningful credit risk insights.
+
 
 It provides a scalable analytical foundation for borrower segmentation, exposure monitoring, and data-driven lending decisions.
